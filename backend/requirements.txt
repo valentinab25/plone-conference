@@ -2,6 +2,5 @@
 -e src/plone_conference['test']
 
 zope.testrunner
-pas.plugins.authomatic
 
 # Add required add-ons
